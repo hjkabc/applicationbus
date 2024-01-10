@@ -1,0 +1,10 @@
+22;VW;essence;blanc;bon;touristique;4;34456.000000;
+33;vw;essence;blanc;bon;touristique;4;456.000000;
+44;vw;essence;blue;moyenne;touristique;4;33423.000000;
+55;vw;essence;blanche;nouvelle;familiale;5;34.000000;
+66;VW;essence;blanc;bon;touristique;4;34456.000000;
+77;VW;essence;blanc;bon;touristique;4;34456.000000;
+88;VW;essence;blanc;bon;touristique;4;34456.000000;
+99;VW;essence;blanc;bon;touristique;4;34456.000000;
+100;VW;essence;blanc;bon;touristique;4;34456.000000;
+65;VW;essence;blanc;bon;touristique;4;34456.000000;
