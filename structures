@@ -1,0 +1,25 @@
+struct voyageur{
+           char nom[20];
+           int age;
+           char datedeb[10];
+           }voyageur;
+struct reserv{
+           int num;
+           int numbus;
+           char nom[20];
+           char datedeb[10];
+           struct reserv *next;
+           }reserv;
+struct bus{
+           int num;
+           int nbremax;
+           struct bus *next;
+          }bus ;
+struct description {
+           char Marque[20],energie[20],couleur[20],etat[20],classe[20];
+            float compteur;
+            int Num,puissance;
+           }description;
+           
+           
+           
